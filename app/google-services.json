@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "620107474487",
+    "firebase_url": "https://sportsmeets-7dc1e-default-rtdb.firebaseio.com",
+    "project_id": "sportsmeets-7dc1e",
+    "storage_bucket": "sportsmeets-7dc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620107474487:android:d126bbc58bd2e8c40c41b2",
+        "android_client_info": {
+          "package_name": "com.mirzahansuslu.sportsmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620107474487-vvohsa3cckqs2jq3gpkq2qjd4inksn9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fyFb2aB6WUkPsyUcW8tMV-Q_kWl22No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620107474487-vvohsa3cckqs2jq3gpkq2qjd4inksn9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620107474487:android:785ede544974e2320c41b2",
+        "android_client_info": {
+          "package_name": "com.mirzahansuslu.sportsmeetsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620107474487-vvohsa3cckqs2jq3gpkq2qjd4inksn9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fyFb2aB6WUkPsyUcW8tMV-Q_kWl22No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620107474487-vvohsa3cckqs2jq3gpkq2qjd4inksn9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
